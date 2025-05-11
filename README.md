@@ -66,7 +66,7 @@ A modern recreation of the classic **Pac-Man** game built using **C++** and **SF
 ## 🖼️ Screenshots
 
 ### Game Start – Intro
-![Maze](GameDemo/game-start.png)
+![Maze](Game_Demo/game-start.png)
 
 ### Gameplay – Pac-Man Collecting Pellets
 ![Gameplay](images/pacman-playing.png)
