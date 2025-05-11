@@ -71,11 +71,11 @@ A modern recreation of the classic **Pac-Man** game built using **C++** and **SF
 ### Gameplay – Pac-Man Collecting Pellets  
 <img src="Game_Demo/pacman-playing.png" alt="Gameplay" width="400"/>
 
-### Ghost Blinkers – Intense Action  
-<img src="Game_Demo/ghost-blinkers.png" alt="Ghost Blinkers" width="400"/>
-
 ### Power-Up – Ghosts Turn Blue!  
 <img src="Game_Demo/power-up.png" alt="Power-Up" width="400"/>
+
+### Ghost Blinkers – Intense Action  
+<img src="Game_Demo/ghost-blinkers.png" alt="Ghost Blinkers" width="400"/>
 
 ### Eating Ghost – Intense Action  
 <img src="Game_Demo/eating-ghost.png" alt="Eating Ghost" width="400"/>
