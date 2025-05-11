@@ -57,6 +57,32 @@ A modern recreation of the classic **Pac-Man** game built using **C++** and **SF
 - Validated collisions, AI behavior, and scoring logic  
 - Ensured performance stability and no memory leaks
 
+- ## 📌 Future Improvements
+
+- Advanced ghost AI with adaptive difficulty  
+- Custom maze editor  
+- Additional levels and multiplayer mode
+
+## 🖼️ Screenshots
+
+### Game Start – Maze Layout
+![Maze](images/maze-start.png)
+
+### Gameplay – Pac-Man Collecting Pellets
+![Gameplay](images/pacman-playing.png)
+
+### Ghost Chase – Intense Action
+![Chase](images/ghost-chase.png)
+
+### Power-Up – Ghosts Turn Blue!
+![Power-Up](images/power-up.png)
+
+### Level Complete – Scoring System
+![Score](images/level-complete.png)
+
+### Game Over Screen
+![Game Over](images/game-over.png)
+
 ## 📌 Future Improvements
 
 - Advanced ghost AI with adaptive difficulty  
