@@ -57,12 +57,6 @@ A modern recreation of the classic **Pac-Man** game built using **C++** and **SF
 - Validated collisions, AI behavior, and scoring logic  
 - Ensured performance stability and no memory leaks
 
-- ## 📌 Future Improvements
-
-- Advanced ghost AI with adaptive difficulty  
-- Custom maze editor  
-- Additional levels and multiplayer mode
-
 ## 🖼️ Screenshots
 
 ### Game Start – Intro  
@@ -82,7 +76,6 @@ A modern recreation of the classic **Pac-Man** game built using **C++** and **SF
 
 ### Game Over Screen  
 <img src="Game_Demo/game-over.png" alt="Game Over" width="400"/>
-
 
 ## 📌 Future Improvements
 
