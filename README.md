@@ -77,7 +77,7 @@ A modern recreation of the classic **Pac-Man** game built using **C++** and **SF
 ### Ghost Blinkers – Intense Action  
 <img src="Game_Demo/ghost-blinkers.png" alt="Ghost Blinkers" width="400"/>
 
-### Eating Ghost – Intense Action  
+### Eating Ghost – Ghost Running Back  
 <img src="Game_Demo/eating-ghost.png" alt="Eating Ghost" width="400"/>
 
 ### Game Over Screen  
