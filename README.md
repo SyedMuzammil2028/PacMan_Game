@@ -65,23 +65,24 @@ A modern recreation of the classic **Pac-Man** game built using **C++** and **SF
 
 ## 🖼️ Screenshots
 
-### Game Start – Intro
-![Maze](Game_Demo/game-start.png)
+### Game Start – Intro  
+<img src="Game_Demo/game-start.png" alt="Maze" width="400"/>
 
-### Gameplay – Pac-Man Collecting Pellets
-![Gameplay](images/pacman-playing.png)
+### Gameplay – Pac-Man Collecting Pellets  
+<img src="Game_Demo/pacman-playing.png" alt="Gameplay" width="400"/>
 
-### Ghost Chase – Intense Action
-![Chase](images/ghost-chase.png)
+### Ghost Blinkers – Intense Action  
+<img src="Game_Demo/ghost-blinkers.png" alt="Ghost Blinkers" width="400"/>
 
-### Power-Up – Ghosts Turn Blue!
-![Power-Up](images/power-up.png)
+### Power-Up – Ghosts Turn Blue!  
+<img src="Game_Demo/power-up.png" alt="Power-Up" width="400"/>
 
-### Level Complete – Scoring System
-![Score](images/level-complete.png)
+### Eating Ghost – Intense Action  
+<img src="Game_Demo/eating-ghost.png" alt="Eating Ghost" width="400"/>
 
-### Game Over Screen
-![Game Over](images/game-over.png)
+### Game Over Screen  
+<img src="Game_Demo/game-over.png" alt="Game Over" width="400"/>
+
 
 ## 📌 Future Improvements
 
